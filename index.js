@@ -44,7 +44,7 @@ function makeSound(passKey){
             crash.play();
             break;
         default:
-            console.log(buttonInnerHTML);
+            console.log();
     }
 }
 
